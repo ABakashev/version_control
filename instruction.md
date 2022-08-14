@@ -55,3 +55,6 @@ align  | align  | align
 ### Это апельсин
 
 ![orange](orange.png)
+
+### Вот это банан
+![Банан](https://ic.pics.livejournal.com/masterok/50816465/1829028/1829028_original.jpg)
